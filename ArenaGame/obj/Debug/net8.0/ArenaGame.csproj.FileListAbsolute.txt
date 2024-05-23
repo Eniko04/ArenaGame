@@ -1,0 +1,11 @@
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/bin/Debug/net8.0/ArenaGame.deps.json
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/bin/Debug/net8.0/ArenaGame.dll
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/bin/Debug/net8.0/ArenaGame.pdb
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/obj/Debug/net8.0/ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/obj/Debug/net8.0/ArenaGame.AssemblyInfoInputs.cache
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/obj/Debug/net8.0/ArenaGame.AssemblyInfo.cs
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/obj/Debug/net8.0/ArenaGame.csproj.CoreCompileInputs.cache
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/obj/Debug/net8.0/ArenaGame.dll
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/obj/Debug/net8.0/refint/ArenaGame.dll
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/obj/Debug/net8.0/ArenaGame.pdb
+/Users/enizali/Desktop/AreanGame/AreanGame/ArenaGame/obj/Debug/net8.0/ref/ArenaGame.dll
